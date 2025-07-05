@@ -1,4 +1,4 @@
-## CSV_Analyzer (Обработка CSV-файлов)
+## CSVProcessor (Обработка CSV-файлов)
 ### Зависимости:
 В файле `requirements.txt`
 ### Использование:
